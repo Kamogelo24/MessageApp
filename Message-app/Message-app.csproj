@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>MessageApp</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Company>YourName</Company>
+    <Product>MessageApp</Product>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <Folder Include="mwm\view\" />
+    <Folder Include="Icons\" />
+  </ItemGroup>
+
+</Project>
