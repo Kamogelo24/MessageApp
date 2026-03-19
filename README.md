@@ -41,3 +41,17 @@ The application follows a **client-server model**:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Kamogelo24/your-repo-name.git
+
+   ## 📸 Screenshots
+
+### Chat Interface
+![Chat Screen](Chat-App Screen short/Chat Demo1.PNG)
+![Chat Screen](Chat-App Screen short/Chat Demo2.PNG)
+![Chat Screen](Chat-App Screen short/Demo1.PNG)
+![Chat Screen](Chat-App Screen short/Demo2.PNG)
+![Chat Screen](Chat-App Screen short/Demo3.PNG)
+
+### Server Console
+![Server Screen](Chat-App Screen short/ServerPic(MessageApp).png)
+![Server Screen](Chat-App Screen short/Server2.PNG)
+![Server Screen](Chat-App Screen short/Server.PNG3)
