@@ -40,7 +40,7 @@ The application follows a **client-server model**:
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kamogelo24/your-repo-name.git
+   git clone https://github.com/Kamogelo24/MessageApp.git
 
    ## 📸 Screenshots
 
