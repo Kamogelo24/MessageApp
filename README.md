@@ -66,3 +66,28 @@ The application follows a **client-server model**:
 
 
 ![Server Screen](Chat-App Screen short/Server.PNG3)
+
+
+
+## 🔮 Future Improvements
+
+- Implement user authentication (login and registration system)
+- Enable internet-based communication instead of LAN-only connectivity
+- Add message persistence using a database (store chat history)
+- Improve UI/UX for a more modern and responsive interface
+- Implement encryption for secure messaging
+- Add file sharing functionality between users
+- Optimize server performance for handling multiple concurrent users
+
+
+## 🧩 Challenges Faced
+
+- Managing multiple client connections simultaneously
+- Handling real-time message synchronization
+- Debugging socket communication issues
+
+## 📚 What I Learned
+
+- Practical implementation of TCP/IP socket programming
+- Client-server architecture design
+- Importance of structured and maintainable code
